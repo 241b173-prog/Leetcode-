@@ -17,7 +17,7 @@
 24. Swap Nodes in Pairs
 22. Generate Parentheses
 4. Median of Two Sorted Arrays
-5. 3488. Closest Equal Element Queries
+3488. Closest Equal Element Queries
 1895. Largest Magic Square
 3047. Find the Largest Area of Square Inside Two Rectangles
 19. Remove Nth Node From End of List
